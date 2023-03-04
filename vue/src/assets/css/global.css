@@ -1,0 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*全局配置的css文件，这个配置应该是撑大网页吧？*/
+}
+
